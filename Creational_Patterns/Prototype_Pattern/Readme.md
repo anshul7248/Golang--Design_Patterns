@@ -1,0 +1,1 @@
+The Prototype Pattern is used when want to create a copy of an existing object instead of creating a new one from scratch
